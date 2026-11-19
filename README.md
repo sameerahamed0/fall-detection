@@ -243,18 +243,38 @@ The monitoring interface provides:
 
 ### 📸 Screenshots
 
-Add your project screenshots here:
+## 📸 Project Screenshots
 
-```markdown
-<img width="1813" height="1079" alt="Screenshot 2026-02-26 104248" src="https://github.com/user-attachments/assets/a6a87a29-f77c-489c-b572-c3969c5a8f33" />
-<img width="1919" height="1079" alt="Screenshot 2026-02-26 104335" src="https://github.com/user-attachments/assets/d137ebdd-057d-44e2-8be0-3d9c76da4661" />
-<img width="1906" height="1058" alt="Screenshot 2026-02-26 104409" src="https://github.com/user-attachments/assets/ec0d2cab-5de5-4b94-8b5a-4542cd7fe0a9" />
-<img width="1907" height="1061" alt="Screenshot 2026-02-26 104513" src="https://github.com/user-attachments/assets/541d179d-a1d6-4941-ba09-4fd84e15a759" />
-<img width="1904" height="1071" alt="Screenshot 2026-02-26 104607" src="https://github.com/user-attachments/assets/d45fabe7-429e-4b93-bfeb-8556a23e57d8" />
-<img width="1451" height="961" alt="Screenshot 2026-05-07 233418" src="https://github.com/user-attachments/assets/aeea47d7-98be-4a9f-bfc7-9f2306505286" />
-<img width="959" height="461" alt="Screenshot 2026-04-17 142024" src="https://github.com/user-attachments/assets/38ee939e-774a-45ce-9cdb-44c6e9970707" />
+<div align="center">
 
-```
+  <img src="https://github.com/user-attachments/assets/a6a87a29-f77c-489c-b572-c3969c5a8f33" width="90%" alt="Project Screenshot 1"/>
+
+  <br/><br/>
+
+  <img src="https://github.com/user-attachments/assets/d137ebdd-057d-44e2-8be0-3d9c76da4661" width="90%" alt="Project Screenshot 2"/>
+
+  <br/><br/>
+
+  <img src="https://github.com/user-attachments/assets/ec0d2cab-5de5-4b94-8b5a-4542cd7fe0a9" width="90%" alt="Project Screenshot 3"/>
+
+  <br/><br/>
+
+  <img src="https://github.com/user-attachments/assets/541d179d-a1d6-4941-ba09-4fd84e15a759" width="90%" alt="Project Screenshot 4"/>
+
+  <br/><br/>
+
+  <img src="https://github.com/user-attachments/assets/d45fabe7-429e-4b93-bfeb-8556a23e57d8" width="90%" alt="Project Screenshot 5"/>
+
+  <br/><br/>
+
+  <img src="https://github.com/user-attachments/assets/aeea47d7-98be-4a9f-bfc7-9f2306505286" width="90%" alt="Project Screenshot 6"/>
+
+  <br/><br/>
+
+  <img src="https://github.com/user-attachments/assets/38ee939e-774a-45ce-9cdb-44c6e9970707" width="90%" alt="Project Screenshot 7"/>
+
+</div>
+
 
 ---
 
